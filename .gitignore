@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+
+node_modules/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Editors
+.vscode/
+.idea/
